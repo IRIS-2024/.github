@@ -336,7 +336,7 @@ You can check the details of the report and the witness comments on the report.
 
 <table style="border:none;">
    <tr>
-      <td colspan='' width="7%">
+      <td width="7%">
          <b>Name</b>
       </td>
       <td width="22%">
@@ -351,7 +351,6 @@ You can check the details of the report and the witness comments on the report.
       <td width="22%">
              <a href="https://github.com/YenaChoi00"><b>최예나</b></a> <br/>(Yena Choi)
       </td>
-
    </tr>
     <tr>
       <td>
@@ -369,9 +368,7 @@ You can check the details of the report and the witness comments on the report.
                <td>
 - UI Design (Report Detail Page, Report Comment Page, My Page, Login Page)<br/>- Implement Google Map API (Google Map Widget)<br/>- Implement Google Login<br/>
       </td>
-      <td>
    </tr>
-
 <tr>
       <td>
          GitHub<br/>Repository
@@ -388,7 +385,5 @@ You can check the details of the report and the witness comments on the report.
         <td>
 <a href="https://github.com/YenaChoi00"><img src="https://avatars.githubusercontent.com/u/71956482?v=4" width="150"></a> 
       </td>
-      <td>
-
    </tr>
 </table><br/>
