@@ -26,10 +26,12 @@ Goal 16: Peace, Justice and Strong Institutions
 <br/>
 
 ## 🪄 How to run MissingYou
+
 ### Android
+
 - Click [here](https://drive.google.com/drive/folders/1bLgtt6Rjo8g86pfaS9yHW5ZoNOGut2EZ) to download an APK file.
 - Install the "app-release.apk" file on your android device.
-<br/>
+  <br/>
 
 ## 🛠 Project Architecure
 
@@ -52,7 +54,7 @@ Goal 16: Peace, Justice and Strong Institutions
    </tr>
    <tr>
       <td>
-        <img src="https://github.com/dsc-sookmyung/2024-IRIS-SolutionChallenge/assets/76986589/787c5fe6-b0f5-4a79-ab98-325a0dc60017" width="250"/>                   
+        <img src="https://github.com/IRIS-2024/Front/assets/76986589/63f66034-5db5-49f2-aeda-dfaae34216a6" width="250"/>                   
       </td>
       <td>
         Log in through Google login and use MissingYou.
@@ -78,7 +80,7 @@ You can check the missing person reports around you.
     </td>
    <tr>
       <td colspan='2'>
-        <img src="https://github.com/dsc-sookmyung/2024-IRIS-SolutionChallenge/assets/76986589/75c26032-8a27-47f0-adcb-65e44fbd686f" width="250"/>
+        <img src="https://github.com/IRIS-2024/Front/assets/76986589/556700ea-94e3-4a3f-88e8-dccb93ef5a86" width="250"/>
       </td>
       <td>
         Displays the missing person reports around you in the most up-to-date order.<br/>You can view brief missing person information and a photo, and click to view detailed of the report.
@@ -90,10 +92,10 @@ You can check the missing person reports around you.
         </td>
     <tr>
       <td>
-        <img src="https://github.com/dsc-sookmyung/2024-IRIS-SolutionChallenge/assets/76986589/aab2dc6b-420c-48b9-83c0-0de20fc754e7" width="250"/>
+        <img src="https://github.com/IRIS-2024/Front/assets/76986589/1c31b15c-df4d-4609-95ef-bda131576afc" width="250"/>
       </td>
       <td>
-        <img src="https://github.com/dsc-sookmyung/2024-IRIS-SolutionChallenge/assets/76986589/63602f52-519b-414f-94c7-14923fa2f1c7" width="250"/>
+        <img src="https://github.com/IRIS-2024/Front/assets/76986589/b62e8d31-e261-4a03-b288-4ce0e7430a1a" width="250"/>
       <td>
        Displays the missing person reports around you as a marker on a map.<br/> Click the marker on the map to see the details of the report.
       </td>
@@ -115,10 +117,10 @@ You can write a missing person report by clicking the 'Report' floating button o
    </tr>
    <tr>
       <td>
-        <img src="https://github.com/dsc-sookmyung/2024-IRIS-SolutionChallenge/assets/76986589/3c57bac6-555f-4f2d-be89-74d624c13f26" width="250"/> 
+        <img src="https://github.com/IRIS-2024/Front/assets/76986589/ece16f40-681f-45ad-abba-4c5cff142e61" width="250"/> 
       </td>
       <td>
-        <img src="https://github.com/dsc-sookmyung/2024-IRIS-SolutionChallenge/assets/76986589/f55630ea-cded-4e1b-8981-250e736820fd" width="250"/>
+        <img src="https://github.com/IRIS-2024/Front/assets/76986589/3c2fb763-56de-4362-94cf-40b5a983a450" width="250"/>
       </td>
       <td>
         If there is a missing case, you can write a report. <br/><br/><br/> [Input Field] <br/> - photos(required*) <br/> - name (*) <br/> -gender (*), age (*) <br/> - height, weight <br/> - time of missing (*) <br/> - last location (*) <br/> - clothing at the time of missing (*) <br/> - special note
@@ -126,10 +128,10 @@ You can write a missing person report by clicking the 'Report' floating button o
    </tr>
       <tr>
       <td>
-       <img src="https://github.com/dsc-sookmyung/2024-IRIS-SolutionChallenge/assets/76986589/3ddcb845-04c7-4fb1-8641-8c8173a789fb" width="250"/>
+       <img src="https://github.com/IRIS-2024/Front/assets/76986589/cc1f022e-e096-4f76-b7bd-6f527b34f79d" width="250"/>
       </td>
       <td>
-        <img src="https://github.com/dsc-sookmyung/2024-IRIS-SolutionChallenge/assets/76986589/e82b799c-26f5-41b1-b1a5-cd404808c434" width="250"/> 
+        <img src="https://github.com/IRIS-2024/Front/assets/76986589/15011169-7d39-488d-81e1-937e08af870c" width="250"/> 
       <td>
        (Left) The last location is entered via Google Maps. <br/><br/> (Right) When you press the registration button, an AI Image Generator creates an image of missing person’s clothing based on the provided information.
       </td>
@@ -156,7 +158,7 @@ You can check the details of the report and the witness comments on the report.
    </tr>
    <tr>
       <td colspan='2'>
-         <img src="https://github.com/dsc-sookmyung/2024-IRIS-SolutionChallenge/assets/76986589/71a2dad6-8726-444c-be9a-d1cf75cbef3c" width="250"/>
+         <img src="https://github.com/IRIS-2024/Front/assets/76986589/f7417507-222c-40b4-8720-a8c0b354932b" width="250"/>
       </td>
       <td>
          It shows the information and photos of the missing person written by the reporter.<br>The AI-generated image is shown with the guide 'This is an AI-generated image based on the information entered'.
@@ -169,10 +171,10 @@ You can check the details of the report and the witness comments on the report.
    </tr>
    <tr>
       <td>
-         <img src="https://github.com/dsc-sookmyung/2024-IRIS-SolutionChallenge/assets/76986589/4708e9ff-bbe3-43ea-bf71-1853d1bd6f0c" width="250"/> 
+         <img src="https://github.com/IRIS-2024/Front/assets/76986589/12ab424a-cc0d-45ac-a4c2-6ad2d3a84e6b" width="250"/> 
       </td>
       <td>
-        <img src="https://github.com/dsc-sookmyung/2024-IRIS-SolutionChallenge/assets/76986589/dff9d63e-43d3-459c-838d-089cbecb4776" width="250"/>
+        <img src="https://github.com/IRIS-2024/Front/assets/76986589/3da7922e-03f2-4b80-ae51-cf395f83019e" width="250"/>
       </td>
       <td>
          This page shows the witness comments along with the map. <br/><br/> Missing locations are marked with blue markers and witness comments are marked with red markers. <br/> Click a marker to display the corresponding witness comment at the top.
@@ -180,23 +182,23 @@ You can check the details of the report and the witness comments on the report.
    </tr>
       <tr>
       <td>
-         <img src="https://github.com/dsc-sookmyung/2024-IRIS-SolutionChallenge/assets/76986589/69b11946-94a5-45cd-b417-3b02e22e2ea4" width="250"/> 
+         <img src="https://github.com/IRIS-2024/Front/assets/76986589/e475b282-ca97-464a-80ff-16fae015976b" width="250"/> 
       </td>
       <td>
-        <img src="https://github.com/dsc-sookmyung/2024-IRIS-SolutionChallenge/assets/76986589/5ca2568a-50b6-4375-8a18-89298bf60e73" width="250"/>
+        <img src="https://github.com/IRIS-2024/Front/assets/76986589/192d9ca9-54dd-42f8-9b34-59f578a37188" width="250"/>
       </td>
       <td>
          The reporter can filter the comments based on the matching rate between the photos uploaded by the witness and those of the missing person.
       </td>
    </tr>
       <td>
-        <img src="https://github.com/dsc-sookmyung/2024-IRIS-SolutionChallenge/assets/76986589/1a4ccde0-cf2d-432f-8c0e-c65a491253ae" width="250"/>
+        <img src="https://github.com/IRIS-2024/Front/assets/76986589/11978da3-aa4b-415a-9889-ed5e79fb23a5" width="250"/>
       </td>
       <td>
-        <img src="https://github.com/dsc-sookmyung/2024-IRIS-SolutionChallenge/assets/76986589/0f263b8a-9d91-4e32-9635-518fc39dfc31" width="250"/>
+        <img src="https://github.com/IRIS-2024/Front/assets/76986589/5db30806-35cd-4804-a40a-02c6ba96ca41" width="250"/>
       </td>
       <td>
-        (left) You can release a missing person report by clicking the 'Release' floating button.<br/><br/> (right) If you're not a reporter, you'll see a 'Write Witness Comment' floating button. You can press this to write comment. Only the reporter and the Witness who submitted the comment can view the unblurred photos.
+        (left) You can release a missing person report by clicking the 'Cancel Report' floating button.<br/><br/> (right) If you're not a reporter, you'll see a 'Submit a Comment' floating button. You can press this to write comment. Only the reporter and the Witness who submitted the comment can view the unblurred photos.
       </td>
    </tr>
 </table><br/>
@@ -210,7 +212,7 @@ You can check the details of the report and the witness comments on the report.
       </td>
    </tr>
 
-### 5. Witness Comment Registration Page
+### 5. Witness Comment Submit Page
 
 <table style="border:none;">
    <tr>
@@ -223,10 +225,10 @@ You can check the details of the report and the witness comments on the report.
    </tr>
    <tr>
       <td>
-         <img src="https://github.com/dsc-sookmyung/2024-IRIS-SolutionChallenge/assets/76986589/61613c0c-5bfb-4258-a8bf-562760b5c913" width="250"/>
+         <img src="https://github.com/IRIS-2024/Front/assets/76986589/3f278d06-dd82-44d5-949b-ea0dbd44a5c5" width="250"/>
       </td>
       <td>
-        <img src="https://github.com/dsc-sookmyung/2024-IRIS-SolutionChallenge/assets/76986589/6a7459ce-14d2-48fe-87a3-8cd2a49ad309" width="250"/> 
+        <img src="https://github.com/IRIS-2024/Front/assets/76986589/fe78a18a-480d-4ba2-9960-c9d9d8c5068b" width="250"/> 
       </td>
       <td>
         If you spotted a missing person, you can write a witness comment. <br/><br/> [Input Field] <br/> - photos of witnessing (required*) <br/> - the time of witnessing (*) <br/> - the location of witnessing (*) <br/> - clothing at the time of witnessing <br/> - the situation at the time of the witnessing
@@ -234,7 +236,7 @@ You can check the details of the report and the witness comments on the report.
    </tr>
 </table><br/>
 
-### 6. My Info Page
+### 6. My Page
 
 <table style="border:none;">
    <tr>
@@ -247,10 +249,10 @@ You can check the details of the report and the witness comments on the report.
    </tr>
    <tr>
       <td>
-        <img src="https://github.com/dsc-sookmyung/2024-IRIS-SolutionChallenge/assets/76986589/86f82b40-69d7-4722-b064-c4f356557286" width="250"/>                      
+        <img src="https://github.com/IRIS-2024/Front/assets/76986589/8ed0dd27-4119-40f3-a9b7-778f36760ed2" width="250"/>                      
       </td>
       <td>
-        You can view user information set up the app. <br/><br/> - User Infomation <br/><br/> - Manage writing <br/> 1) Written missing person reports <br/> 2) Written witness comments <br/>3) bookmarked missing person reports <br/><br/> - Set up <br/> Logout <br/> Withdrawal
+        You can view user information and app settings. <br/><br/> - User Infomation <br/><br/> - Post Management <br/> 1) Written missing person reports <br/> 2) Written witness comments <br/>3) bookmarked missing person reports <br/><br/> - App Settings <br/> Logout <br/> Sign out
       </td>
    </tr>
     <tr>
@@ -260,7 +262,7 @@ You can check the details of the report and the witness comments on the report.
    </tr>
    <tr>
     <td>
-        <img src="https://github.com/dsc-sookmyung/2024-IRIS-SolutionChallenge/assets/76986589/3e310d68-9b08-414e-8a9c-0b05dde671f1" width="250"/> 
+        <img src="https://github.com/IRIS-2024/Front/assets/76986589/481aee17-0584-4b33-8799-e580a6c7ed3c" width="250"/> 
     </td>
      <td>
         You can check and delete the missing person reports you have written.
@@ -273,7 +275,7 @@ You can check the details of the report and the witness comments on the report.
    </tr>
    <tr>
     <td>
-        <img src="https://github.com/dsc-sookmyung/2024-IRIS-SolutionChallenge/assets/76986589/ac6377ad-e7d5-40ec-a974-18a519cf7c75" width="250"/>
+        <img src="https://github.com/IRIS-2024/Front/assets/76986589/370c73c7-7347-4e50-96dc-2bc39d8afe65" width="250"/>
     </td>
      <td>
         You can check and delete the witness comments you have written.
@@ -286,16 +288,107 @@ You can check the details of the report and the witness comments on the report.
    </tr>
    <tr>
     <td>
-        <img src="https://github.com/dsc-sookmyung/2024-IRIS-SolutionChallenge/assets/76986589/3be56a43-b421-4959-976e-347581ed6b6d" width="250"/>
+        <img src="https://github.com/IRIS-2024/Front/assets/76986589/0e76efb3-4674-41a6-a4e1-bebc862731d8" width="250"/>
     </td>
      <td>
         You can check the bookmarked missing person reports.
     </td>
    </tr>
-</table><br/>    
+</table><br/>
 
-## 👯‍♀️  People of IRIS
-|Name|[김희서](https://github.com/hap6v6) <br/> (Heeseo Kim)|[이주은](https://github.com/lizuAg) <br/> (Jueun Lee)|[이혜린](https://github.com/2hyerin) <br/> (Hyerin Lee)|[최예나](https://github.com/YenaChoi00) <br/> (Yena Choi)|
-|:---:|---|---|---|---|
-|Role|- UI Design (Main Page, Report Registration Page, Witness Comment Registration Page)<br/>- Implement Google Map API (Google Map Widget, Geocoding)<br/>- Implement API Communication: Main Page, Report Registration Page,  Witness Comment Registration Page, My Page, Bookmark)<br/>|- Deploy spring server with GCP Virtual Machine<br/>- Manage MySql DB with GCP SQL<br/>- Server APIs|- Deploy FastAPI with GCP virtual machine<br/>- Calculate similarity between faces<br/>- Generate clothing image<br/>- Train models to face detection and verification |- UI Design (Report Detail Page, Report Comment Page, My Page, Login Page)<br/>- Implement Google Map API (Google Map Widget)<br/>- Implement Google Login<br/>|
-|GitHub<br/>Repository|[<img src="https://avatars.githubusercontent.com/u/76986589?v=4">](https://github.com/hap6v6)|[<img src="https://github.com/lizuAg.png">](https://github.com/lizuAg)|[<img src="https://github.com/dsc-sookmyung/2024-IRIS-SolutionChallenge/assets/88357058/e24a0b1d-232f-474e-8135-f14fcb9397ea">](https://github.com/2hyerin)|![image](https://github.com/dsc-sookmyung/2024-IRIS-SolutionChallenge/assets/71956482/7dc18e77-1f3c-4a99-974a-e3fb6d9a1c73)|
+### 7. Notification Setting (Android only)
+
+<table style="border:none;">
+   <tr>
+      <td colspan='2' width="54%">
+         <b>Page</b>
+      </td>
+      <td width="46%">
+        <b>Explanation</b>
+      </td>
+   </tr>
+      <tr>
+      <td>
+         <img src="https://github.com/IRIS-2024/Front/assets/76986589/939c36fb-e8b6-4aef-8a94-f663eb2705a4" width="250"/>
+      </td>
+      <td>
+        <img src="https://github.com/IRIS-2024/Front/assets/76986589/3c281b46-b173-49d2-bc31-0fb3e2c32da7" width="250"/> 
+      </td>
+      <td>
+        You can select your region of interest from My Page. When a new missing person report is submitted in your region of interest, a notification is sent.
+      </td>
+   </tr>
+   <tr>
+      <td>
+         <img src="https://github.com/IRIS-2024/Front/assets/76986589/221d4bbc-30f1-4ff3-a081-1a1447643710" width="250"/>
+      </td>
+      <td>
+        <img src="https://github.com/IRIS-2024/Front/assets/76986589/4d6a364e-cf4e-4ab9-a972-721c5f60b166" width="250"/> 
+      </td>
+      <td>
+        - Notification received.<br/><br/>
+        * A notification is sent when a new comment is posted on the missing person report You wrote.<br/>
+      </td>
+   </tr>
+</table><br/>
+
+## 👯‍♀️ People of IRIS
+
+<table style="border:none;">
+   <tr>
+      <td colspan='' width="7%">
+         <b>Name</b>
+      </td>
+      <td width="22%">
+        <a href="https://github.com/hap6v6"><b>김희서</b></a> <br/>(Heeseo Kim)
+      </td>
+      <td width="22%">
+        <a href="https://github.com/lizuAg"><b>이주은</b></a> <br/>(Jueun Lee)
+      </td>
+      <td width="22%">
+             <a href="https://github.com/2hyerin"><b>이혜린</b></a> <br/>(Hyerin Lee)
+      </td>
+      <td width="22%">
+             <a href="https://github.com/YenaChoi00"><b>최예나</b></a> <br/>(Yena Choi)
+      </td>
+
+   </tr>
+    <tr>
+      <td>
+         Role
+      </td>
+      <td>
+       - UI Design (Main Page, Report Registration Page, Witness Comment Submit Page)<br/>- Implement Google Map API (Google Map Widget, Geocoding)<br/>- Implement API Communication: Main Page, Report Registration Page, Witness Comment Submit Page, My Page, Bookmark)<br/>
+      </td>
+        <td>
+        - Deploy spring server with GCP Virtual Machine<br/>- Manage MySql DB with GCP SQL<br/>- Server APIs
+      </td>
+        <td>
+- Deploy FastAPI with GCP virtual machine<br/>- Calculate similarity between faces<br/>- Generate clothing image<br/>- Train models to face detection and verification
+      </td>
+               <td>
+- UI Design (Report Detail Page, Report Comment Page, My Page, Login Page)<br/>- Implement Google Map API (Google Map Widget)<br/>- Implement Google Login<br/>
+      </td>
+      <td>
+   </tr>
+
+<tr>
+      <td>
+         GitHub<br/>Repository
+      </td>
+      <td>
+      <a href="https://github.com/hap6v6"><img src="https://avatars.githubusercontent.com/u/76986589?v=4" width="150"></a> 
+      </td>
+        <td>
+          <a href="https://github.com/lizuAg"><img src="https://github.com/lizuAg.png" width="150"></a> 
+      </td>
+        <td>
+<a href="https://github.com/2hyerin"><img src="https://github.com/dsc-sookmyung/2024-IRIS-SolutionChallenge/assets/88357058/e24a0b1d-232f-474e-8135-f14fcb9397ea" width="150"></a> 
+      </td>
+        <td>
+<a href="https://github.com/YenaChoi00"><img src="https://avatars.githubusercontent.com/u/71956482?v=4" width="150"></a> 
+      </td>
+      <td>
+
+   </tr>
+</table><br/>
