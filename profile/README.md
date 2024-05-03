@@ -29,9 +29,10 @@ Goal 16: Peace, Justice and Strong Institutions
 
 ### Android
 
-- Click [here](https://drive.google.com/drive/folders/1bLgtt6Rjo8g86pfaS9yHW5ZoNOGut2EZ) to download an APK file.
+- Click [here](https://drive.google.com/drive/folders/1u7Qcz4GGhZxTVGQ8XDAntJ03MY6TW0gA?usp=sharing) to download an APK file.
 - Install the "app-release.apk" file on your android device.
-  <br/>
+
+<br/>
 
 ## 🛠 Project Architecure
 
@@ -328,6 +329,31 @@ You can check the details of the report and the witness comments on the report.
       <td>
         - Notification received.<br/><br/>
         * A notification is sent when a new comment is posted on the missing person report You wrote.<br/>
+      </td>
+   </tr>
+</table><br/>
+
+### 8. Multilingual Support
+
+<table style="border:none;">
+   <tr>
+      <td colspan='2' width="54%">
+         <b>Page</b>
+      </td>
+      <td width="46%">
+        <b>Explanation</b>
+      </td>
+   </tr>
+      <tr>
+      <td>
+         <img src="https://github.com/IRIS-2024/Front/assets/76986589/5ea7de9e-bff2-4970-8ba0-c21ed795b09b" width="250"/>
+      </td>
+      <td>
+        <img src="https://github.com/IRIS-2024/Front/assets/76986589/556700ea-94e3-4a3f-88e8-dccb93ef5a86" width="250"/> 
+      </td>
+      <td>
+        (left) Korean, (right) English<br/>
+        We offer support in both English and Korean to broaden accessibility.
       </td>
    </tr>
 </table><br/>
