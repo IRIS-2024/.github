@@ -1,6 +1,6 @@
 # 🚨 Introduction: MissingYou
 
-![d5bfc93299dcfc9f](https://github.com/dsc-sookmyung/2024-IRIS-SolutionChallenge/assets/68546023/9a944c30-dfe8-4857-925f-cc4603671baf)
+[![d5bfc93299dcfc9f](https://github.com/dsc-sookmyung/2024-IRIS-SolutionChallenge/assets/68546023/9a944c30-dfe8-4857-925f-cc4603671baf)](https://www.youtube.com/watch?v=ZwgnbyynzCk&list=PLMaPqisYYGFPQBt_NYYqG92Sy6g8fEg5-&index=6)
 
 In September 2021, a system was introduced in Korea to send missing person notification text to citizens when high-risk individuals, such as children, teenagers, disabled people, and dementia patients, go missing. This messaging system has proven effective, significantly reducing the average time to find missing persons in high-risk groups from 34 hours to 3 hours and 10 minutes through the sightings of the citizens.
 
@@ -21,7 +21,7 @@ Goal 16: Peace, Justice and Strong Institutions
 
 ## 🎥 Demo Video Link
 
-[![3](https://github.com/dsc-sookmyung/2024-IRIS-SolutionChallenge/assets/68546023/1d48b4de-2ddd-465d-b98b-ac0a735da086)](https://youtu.be/MADOLeX1loE)
+[![3](https://github.com/dsc-sookmyung/2024-IRIS-SolutionChallenge/assets/68546023/1d48b4de-2ddd-465d-b98b-ac0a735da086)](https://www.youtube.com/watch?v=ZwgnbyynzCk&list=PLMaPqisYYGFPQBt_NYYqG92Sy6g8fEg5-&index=6)
 
 <br/>
 
