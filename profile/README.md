@@ -116,6 +116,16 @@ You can write a missing person report by clicking the 'Report' floating button o
         <b>Explanation</b>
       </td>
    </tr>
+
+   <tr>
+      <td colspan='2'>
+        <img src="https://github.com/IRIS-2024/Front/assets/76986589/3759a086-0726-4b06-916e-ebe250d76ccc" width="250"/>
+      </td>
+      <td>
+        We added a user consent screen to prevent the possible malicious use of the solution.<br/>
+         It includes the report must be submitted only for the purpose of finding the missing person, otherwise it could be subject to punishment.
+ </td>
+   </tr>
    <tr>
       <td>
         <img src="https://github.com/IRIS-2024/Front/assets/76986589/ece16f40-681f-45ad-abba-4c5cff142e61" width="250"/> 
