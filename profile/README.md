@@ -21,7 +21,7 @@ Goal 16: Peace, Justice and Strong Institutions
 ## 🎥 Demo Video Link
 
 [![3](https://github.com/dsc-sookmyung/2024-IRIS-SolutionChallenge/assets/68546023/1d48b4de-2ddd-465d-b98b-ac0a735da086)](https://youtu.be/F2Ulz40EFjs)
-
+[You can also check the previous video](https://www.youtube.com/watch?v=ZwgnbyynzCk&t=1s)
 <br/>
 
 ## 🪄 How to run MissingYou
