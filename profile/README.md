@@ -40,7 +40,7 @@ Goal 16: Peace, Justice and Strong Institutions
 - Changes to outfit generation images
   - People with dressed  -> Mannequins with dressed : emphasize clothing more, and stand out from other photos
 - Push notifications
-  - Get instant notifications of witness comments, and missing persons reports in your area.
+  - Get instant notifications of witness comments, and missing persons reports in your region of interest.
 
 <br/>
 
