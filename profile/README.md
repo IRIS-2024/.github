@@ -132,7 +132,7 @@ You can write a missing person report by clicking the 'Report' floating button o
         <img src="https://github.com/IRIS-2024/Front/assets/76986589/3759a086-0726-4b06-916e-ebe250d76ccc" width="250"/>
       </td>
       <td>
-        We added a user consent screen to prevent the possible malicious use of the solution.<br/>
+        We added a pledge page to prevent the possible malicious use of the solution.<br/>
          It includes the report must be submitted only for the purpose of finding the missing person, otherwise it could be subject to punishment.
  </td>
    </tr>
@@ -198,7 +198,7 @@ You can check the details of the report and the witness comments on the report.
         <img src="https://github.com/IRIS-2024/Front/assets/76986589/3da7922e-03f2-4b80-ae51-cf395f83019e" width="250"/>
       </td>
       <td>
-         This page shows the witness comments along with the map. <br/><br/> Missing locations are marked with blue markers and witness comments are marked with red markers. <br/> Click a marker to display the corresponding witness comment at the top.
+         This page shows the witness comments along with the map. <br/><br/> Location of the report is marked with blue markers and witness comments are marked with red markers.<br/>Numbered markers in the order in which comments are submitted, making it easier to track a missing person's whereabouts. <br/><br/> Click a marker to display the corresponding witness comment at the top.
       </td>
    </tr>
       <tr>
