@@ -1,5 +1,5 @@
 # 🚨 Introduction: MissingYou
-![thumbnail](https://github.com/IRIS-2024/.github/assets/71956482/08a668e1-9f94-4673-b664-bea37b7dc44a)
+[![thumbnail](https://github.com/IRIS-2024/.github/assets/71956482/08a668e1-9f94-4673-b664-bea37b7dc44a)](https://www.youtube.com/watch?v=F2Ulz40EFjs)
 
 In September 2021, a system was introduced in Korea to send missing person notification text to citizens when high-risk individuals, such as children, teenagers, disabled people, and dementia patients, go missing. This messaging system has proven effective, significantly reducing the average time to find missing persons in high-risk groups from 34 hours to 3 hours and 10 minutes through the sightings of the citizens.
 
@@ -131,7 +131,7 @@ You can write a missing person report by clicking the 'Report' floating button o
         <img src="https://github.com/IRIS-2024/Front/assets/76986589/3759a086-0726-4b06-916e-ebe250d76ccc" width="250"/>
       </td>
       <td>
-        We added a user consent screen to prevent the possible malicious use of the solution.<br/>
+        We added a pledge page to prevent the possible malicious use of the solution.<br/>
          It includes the report must be submitted only for the purpose of finding the missing person, otherwise it could be subject to punishment.
  </td>
    </tr>
@@ -197,7 +197,7 @@ You can check the details of the report and the witness comments on the report.
         <img src="https://github.com/IRIS-2024/Front/assets/76986589/3da7922e-03f2-4b80-ae51-cf395f83019e" width="250"/>
       </td>
       <td>
-         This page shows the witness comments along with the map. <br/><br/> Missing locations are marked with blue markers and witness comments are marked with red markers. <br/> Click a marker to display the corresponding witness comment at the top.
+         This page shows the witness comments along with the map. <br/><br/> Location of the report is marked with blue markers and witness comments are marked with red markers.<br/>Numbered markers in the order in which comments are submitted, making it easier to track a missing person's whereabouts.<br/><br/> Click a marker to display the corresponding witness comment at the top.
       </td>
    </tr>
       <tr>
