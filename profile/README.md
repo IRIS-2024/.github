@@ -32,6 +32,16 @@ Goal 16: Peace, Justice and Strong Institutions
 - Click [here](https://drive.google.com/drive/folders/1u7Qcz4GGhZxTVGQ8XDAntJ03MY6TW0gA?usp=sharing) to download an APK file.
 - Install the "app-release.apk" file on your android device.
 
+### ver.0.0.2 update !
+- UI improvements
+  - Adjusted thumbnail proportions on the main screen
+  - Added numbering to markers on the map in witness comments
+- Added a pledge page
+- Changes to outfit generation images
+  - People with dressed  -> Mannequins with dressed : emphasize clothing more, and stand out from other photos
+- Push notifications
+  - Get instant notifications of witness comments, and missing persons reports in your area.
+
 <br/>
 
 ## 🛠 Project Architecure
