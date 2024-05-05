@@ -45,7 +45,8 @@ Goal 16: Peace, Justice and Strong Institutions
 
 ## 🛠 Project Architecure
 
-![image](https://github.com/dsc-sookmyung/2024-IRIS-SolutionChallenge/assets/68546023/b1b573ab-c66c-4d10-b0f1-6a86ead06c05)
+![image](https://github.com/IRIS-2024/.github/assets/68546023/34d2147f-d3dd-43b3-8627-bb8c8821f35a)
+
 
 <br/>
 
